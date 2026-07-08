@@ -36,7 +36,6 @@
     <td width="42%" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Ilustración profesional de desarrollo web" />
       <br />
-      <img src="https://github.com/beapatinoalende.png?size=180" width="120" alt="Foto profesional de Beatriz Patiño" />
     </td>
   </tr>
 </table>
@@ -105,8 +104,9 @@ Aplicación web de mesa de ayuda para gestionar tickets entre clientes, agentes 
 
 ## 📚 Formación técnica
 
-- Certificado Profesional en Programación con Lenguajes Orientados a Objetos y Bases de Datos Relacionales, IFCD0112, 710 h.
-- Certificado Profesional en Desarrollo de Aplicaciones con Tecnologías Web, IFCD0210, 590 h.
+- IFCD0112 - Certificado Profesional en Programación con Lenguajes Orientados a Objetos y Bases de Datos Relacionales (710 h.).
+- IFCD0210 - Certificado Profesional en Desarrollo de Aplicaciones con Tecnologías Web (590 h.).
+- Curso Superior de Relacións Laborales (370 H.).
 - Estudios de Informática en la Facultad de Informática de A Coruña.
 
 ## 🎯 Objetivo profesional
