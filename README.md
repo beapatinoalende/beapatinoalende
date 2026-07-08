@@ -34,9 +34,9 @@
       </ul>
     </td>
     <td width="42%" align="center">
-      <img src="developer-profile.svg" width="360" alt="Ilustración profesional de desarrollo web" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Ilustración profesional de desarrollo web" />
       <br />
-      <img src="FotoCV.jpg" width="120" alt="Foto profesional de Beatriz Patiño" />
+      <img src="https://github.com/beapatinoalende.png?size=180" width="120" alt="Foto profesional de Beatriz Patiño" />
     </td>
   </tr>
 </table>
@@ -83,7 +83,7 @@
 
 ## 🚀 Proyecto destacado
 
-### 🎫 Galsoft Helpdesk
+### 🎫 Helpdesk
 
 Aplicación web de mesa de ayuda para gestionar tickets entre clientes, agentes y administradores.
 
