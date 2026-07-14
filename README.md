@@ -80,10 +80,10 @@
 
 ### 🌱 Professional Strengths
 
-![Liderazgo](https://img.shields.io/badge/Liderazgo-6F42C1?style=for-the-badge)
-![Resolución de problemas](https://img.shields.io/badge/Resolucion%20de%20problemas-238636?style=for-the-badge)
-![Planificación](https://img.shields.io/badge/Planificacion-0969DA?style=for-the-badge)
-![Trabajo en equipo](https://img.shields.io/badge/Trabajo%20en%20equipo-FB8500?style=for-the-badge)
+![Leadership](https://img.shields.io/badge/Leadership-6F42C1?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-238636?style=for-the-badge)
+![Planning](https://img.shields.io/badge/Planning-0969DA?style=for-the-badge)
+![Teamwork](https://img.shields.io/badge/Teamwork-FB8500?style=for-the-badge)
 
 ## 🚀 Featured Project <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RzM21sOGlxdG1wZmhna2Z3ZzZ0d3h0aGczbDV6b2t5c3d4a3EzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7btNRptqBgLSKR2w/giphy.gif" width="28" alt="Rocket icon" />
 
