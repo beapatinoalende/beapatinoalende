@@ -106,7 +106,6 @@ Aplicación web de mesa de ayuda para gestionar tickets entre clientes, agentes 
 
 - IFCD0112 - Certificado Profesional en Programación con Lenguajes Orientados a Objetos y Bases de Datos Relacionales (710 h.).
 - IFCD0210 - Certificado Profesional en Desarrollo de Aplicaciones con Tecnologías Web (590 h.).
-- Curso Superior de Relacións Laborales (370 H.).
 - Estudios de Informática en la Facultad de Informática de A Coruña.
 
 ## 🎯 Objetivo profesional
