@@ -68,7 +68,7 @@ Oracle · Microsoft Access
 ### Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Tooling" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,laravel&theme=light" alt="Tooling" />
 </p>
 
 Odoo · SAP · Trello · Asana
@@ -167,6 +167,24 @@ Mini shop with product catalog and cart tracking.
 - Simple product creation.
 
 🔗 [View the Mini-Shop repository](https://github.com/beapatinoalende/Mini-Shop)
+
+### 🎓 EduEvents
+
+Laravel platform combining event booking and online courses with progress tracking.
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+- Event catalog with seat reservations.
+- Course enrollment and lesson progress tracking.
+- Authentication with roles: admin, organizer, student.
+- Organizer panel to create events.
+
+🔗 [View the EduEvents repository](https://github.com/beapatinoalende/EduEvents)
 
 ## <img src="194932.png" width="20" height="20" style="vertical-align:-3px" alt="Education icon" /> Education
 
