@@ -45,45 +45,42 @@
   </tr>
 </table>
 
-## 🛠️ Skills <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Z6cTRoNnR2a2d6aGJ3bWUxOTR4aGxkZzZ6cGNoN3VxNXJhb2R6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26BkNrGhy4DKnbD9u/giphy.gif" width="28" alt="Skills icon" />
+## Skills <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25xZXJ2eXk2M3p3c3BqM3B0cHh4aWJ4bDR3bGd5eWUyY3l5b2Y4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GDqDZ7VUF0D4w/giphy.gif" width="24" alt="Skills icon" />
 
-### 💻 Programming Languages
+### Programming Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,php,py,sql&theme=light" alt="Programming languages" />
+</p>
 
-### 🎨 Frontend Development
+### Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,wordpress&theme=light" alt="Frontend skills" />
+</p>
 
-### 🗄️ Databases
+### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="Database skills" />
+</p>
 
-### 🔧 Tools
+Oracle · Microsoft Access
 
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
+### Tools
 
-### 🌱 Professional Strengths
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Tooling" />
+</p>
 
-![Leadership](https://img.shields.io/badge/Leadership-6F42C1?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-238636?style=for-the-badge)
-![Planning](https://img.shields.io/badge/Planning-0969DA?style=for-the-badge)
-![Teamwork](https://img.shields.io/badge/Teamwork-FB8500?style=for-the-badge)
+Odoo · SAP · Trello · Asana
+
+### Professional Strengths
+
+- Leadership
+- Problem Solving
+- Planning
+- Teamwork
 
 ## 🚀 Featured Project <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RzM21sOGlxdG1wZmhna2Z3ZzZ0d3h0aGczbDV6b2t5c3d4a3EzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7btNRptqBgLSKR2w/giphy.gif" width="28" alt="Rocket icon" />
 
