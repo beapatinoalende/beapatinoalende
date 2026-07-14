@@ -24,7 +24,7 @@
 
 ---
 
-## 👩‍💻 About Me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRzY2NocmI0c3V6bWVwM2Zoc2QzN2M5Z2N6em1pM2t1YjZ0bHc3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oEjI6SIIHBdRxXI40/giphy.gif" width="28" alt="About icon" />
+## About Me
 
 <table>
   <tr>
@@ -39,13 +39,11 @@
     </td>
     <td width="42%" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Professional development illustration" />
-      <br />
-      <img src="https://github.com/beapatinoalende.png?size=180" width="120" alt="Beatriz Patiño avatar" />
     </td>
   </tr>
 </table>
 
-## Skills <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25xZXJ2eXk2M3p3c3BqM3B0cHh4aWJ4bDR3bGd5eWUyY3l5b2Y4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GDqDZ7VUF0D4w/giphy.gif" width="24" alt="Skills icon" />
+## 🛠️ Skills
 
 ### Programming Languages
 
@@ -82,7 +80,7 @@ Odoo · SAP · Trello · Asana
 - Planning
 - Teamwork
 
-## 🚀 Featured Project <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RzM21sOGlxdG1wZmhna2Z3ZzZ0d3h0aGczbDV6b2t5c3d4a3EzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3o7btNRptqBgLSKR2w/giphy.gif" width="28" alt="Rocket icon" />
+## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/diagram-project.svg" width="20" height="20" alt="Project icon" style="vertical-align: -3px; filter: invert(1);" /> Featured Project
 
 ### 🎫 Helpdesk
 
@@ -104,7 +102,7 @@ Helpdesk web app to manage tickets for clients, agents, and administrators.
 
 📁 [View the Helpdesk project folder](./Helpdesk)
 
-## 📚 Education
+## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/graduation-cap.svg" width="20" height="20" alt="Education icon" style="vertical-align: -3px; filter: invert(1);" /> Education
 
 - IFCD0112: Object-Oriented Programming and Relational Databases (710h).
 - IFCD0210: Web Application Development with Web Technologies (590h).
