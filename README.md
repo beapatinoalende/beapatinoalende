@@ -80,7 +80,7 @@ Odoo · SAP · Trello · Asana
 - Planning
 - Teamwork
 
-## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/diagram-project.svg" width="20" height="20" alt="Project icon" style="vertical-align: -3px; filter: invert(1);" /> Featured Project
+## <svg width="18" height="18" viewBox="0 0 24 24" style="vertical-align:-3px" xmlns="http://www.w3.org/2000/svg"><path fill="#58A6FF" d="M10 4l2 2h8a2 2 0 0 1 2 2v1H2V6a2 2 0 0 1 2-2h6z"/><path fill="#58A6FF" d="M2 9h20v9a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V9z"/></svg> Featured Project
 
 ### 🎫 Helpdesk
 
@@ -102,7 +102,7 @@ Helpdesk web app to manage tickets for clients, agents, and administrators.
 
 📁 [View the Helpdesk project folder](./Helpdesk)
 
-## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/graduation-cap.svg" width="20" height="20" alt="Education icon" style="vertical-align: -3px; filter: invert(1);" /> Education
+## <svg width="18" height="18" viewBox="0 0 24 24" style="vertical-align:-3px" xmlns="http://www.w3.org/2000/svg"><path fill="#A371F7" d="M12 3l10 5-10 5L2 8l10-5z"/><path fill="#A371F7" d="M4 10v5.5c0 1 .6 1.9 1.5 2.3L12 21l6.5-3.2c.9-.4 1.5-1.3 1.5-2.3V10l-8 4-8-4z"/></svg> Education
 
 - IFCD0112: Object-Oriented Programming and Relational Databases (710h).
 - IFCD0210: Web Application Development with Web Technologies (590h).
