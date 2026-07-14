@@ -136,6 +136,38 @@ Role-based time tracking system for workers and admins.
 
 🔗 [View the Time-tracking repository](https://github.com/beapatinoalende/Time-tracking-software.git)
 
+### 🧾 Invoice-System
+
+Billing system for creating invoices, adding products, and viewing details.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+- Create invoices and add line items.
+- Invoice list with detail view.
+- Totals with VAT calculation.
+
+🔗 [View the Invoice-System repository](https://github.com/beapatinoalende/Invoice-System)
+
+### 🛒 Mini-Shop
+
+Mini shop with product catalog and cart tracking.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+- Product list with add-to-cart flow.
+- Cart view with product data.
+- Simple product creation.
+
+🔗 [View the Mini-Shop repository](https://github.com/beapatinoalende/Mini-Shop)
+
 ## <img src="194932.png" width="20" height="20" style="vertical-align:-3px" alt="Education icon" /> Education
 
 - IFCD0112: Object-Oriented Programming and Relational Databases (710h).
