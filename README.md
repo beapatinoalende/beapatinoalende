@@ -134,7 +134,7 @@ Role-based time tracking system for workers and admins.
 - Time entry/exit tracking.
 - Admin dashboard with edits and filters.
 
-🔗 [View the SistFichajes repository](https://github.com/beapatinoalende/Time-tracking-software.git)
+🔗 [View the Time-tracking repository](https://github.com/beapatinoalende/Time-tracking-software.git)
 
 ## <img src="194932.png" width="20" height="20" style="vertical-align:-3px" alt="Education icon" /> Education
 
