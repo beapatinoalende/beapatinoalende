@@ -80,7 +80,7 @@ Odoo · SAP · Trello · Asana
 - Planning
 - Teamwork
 
-## <img src="9700_4_04.jpg" width="20" height="20" style="vertical-align:-3px" alt="Project icon" /> Featured Project
+## <img src="9700_4_04.jpg" width="20" height="20" style="vertical-align:-3px" alt="Project icon" /> Featured Projects
 
 ### 🎫 Helpdesk
 
@@ -100,7 +100,41 @@ Helpdesk web app to manage tickets for clients, agents, and administrators.
 - Password recovery and email configuration.
 - Technical and user manuals included.
 
-📁 [View the Helpdesk project folder](./Helpdesk)
+🔗 [View the Helpdesk repository](https://github.com/beapatinoalende/Helpdesk)
+
+### 👥 Login (Clients & Provinces)
+
+CRUD-style web app to manage clients and provinces with relational data.
+
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+- Client and province creation with validations.
+- Client list with joined province data.
+- Clean UI with Bootstrap.
+
+🔗 [View the Login repository](https://github.com/beapatinoalende/Login)
+
+### ⏱️ SistFichajes (Time Tracking)
+
+Role-based time tracking system for workers and admins.
+
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+- Admin/worker roles and login.
+- Time entry/exit tracking.
+- Admin dashboard with edits and filters.
+
+🔗 [View the SistFichajes repository](https://github.com/beapatinoalende/SistFichajes)
 
 ## <img src="194932.png" width="20" height="20" style="vertical-align:-3px" alt="Education icon" /> Education
 
