@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Animated header background" width="100%" />
+  <img src="Cabecera.jpg" alt="Header image" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Beatriz Patiño Alende</h1>
@@ -80,7 +80,7 @@ Odoo · SAP · Trello · Asana
 - Planning
 - Teamwork
 
-## <svg width="18" height="18" viewBox="0 0 24 24" style="vertical-align:-3px" xmlns="http://www.w3.org/2000/svg"><path fill="#58A6FF" d="M10 4l2 2h8a2 2 0 0 1 2 2v1H2V6a2 2 0 0 1 2-2h6z"/><path fill="#58A6FF" d="M2 9h20v9a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V9z"/></svg> Featured Project
+## <img src="9700_4_04.jpg" width="20" height="20" style="vertical-align:-3px" alt="Project icon" /> Featured Project
 
 ### 🎫 Helpdesk
 
@@ -102,7 +102,7 @@ Helpdesk web app to manage tickets for clients, agents, and administrators.
 
 📁 [View the Helpdesk project folder](./Helpdesk)
 
-## <svg width="18" height="18" viewBox="0 0 24 24" style="vertical-align:-3px" xmlns="http://www.w3.org/2000/svg"><path fill="#A371F7" d="M12 3l10 5-10 5L2 8l10-5z"/><path fill="#A371F7" d="M4 10v5.5c0 1 .6 1.9 1.5 2.3L12 21l6.5-3.2c.9-.4 1.5-1.3 1.5-2.3V10l-8 4-8-4z"/></svg> Education
+## <img src="194932.png" width="20" height="20" style="vertical-align:-3px" alt="Education icon" /> Education
 
 - IFCD0112: Object-Oriented Programming and Relational Databases (710h).
 - IFCD0210: Web Application Development with Web Technologies (590h).
